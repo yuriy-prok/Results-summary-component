@@ -8,8 +8,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html-css--JWMgaivGg)
+- Live Site URL: [Live site](https://yuriy-prok.github.io/Results-summary-component/)
 
 ### Built with
 
@@ -19,5 +19,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Website - [Add your name here](https://github.com/yuriy-prok)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yuriyprok)
+- Website - [Author](https://github.com/yuriy-prok)
+- Frontend Mentor - [@Profile](https://www.frontendmentor.io/profile/yuriyprok)
